@@ -59,15 +59,19 @@ public class AdvancedMemory : MonoBehaviour
         {
             case ("Wires"): r = 000; break;
             case ("The Button"): r = 100; break;
+            case ("Big Button Translated"): r = 100; break;
             case ("Keypad"): r = 200; break;
             case ("Maze"): r = 300; break;
             case ("Memory"): r = 400; break;
             case ("Morse Code"): r = 500; break;
+            case ("Morse Code Translated"): r = 500; break;
             case ("Password"): r = 600; break;
+            case ("Password Translated"): r = 600; break;
             case ("Simon Says"): r = 800; break;
             case ("Wire Sequence"): r = 001; break;
             case ("Complicated Wires"): r = 002; break;
             case ("Who's on First"): r = 123; break;
+            case ("Who's on First Translated"): r = 123; break;
             case ("Colour Flash"): r = 380; break;
             case ("Piano Keys"): r = 140; break;
             case ("Semaphore"): r = 604; break;
@@ -120,7 +124,7 @@ public class AdvancedMemory : MonoBehaviour
             case ("Blind Alley"): r = 750; break;
             case ("Sea Shells"): r = 124; break;
             case ("English Test"): r = 730; break;
-            case ("Rock-Paper-Scissors-L.Sp."): r = 621; break;
+            case ("Rock-Paper-Scissors-L.-Sp."): r = 621; break;
             case ("Hexamaze"): r = 304; break;
             case ("Bitmaps"): r = 748; break;
             case ("Colored Squares"): r = 830; break;
