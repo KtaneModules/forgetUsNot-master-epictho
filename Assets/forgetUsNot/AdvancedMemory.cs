@@ -720,7 +720,7 @@ public class AdvancedMemory : MonoBehaviour
             case ("Chicken Nuggets"): r = 585; break;
             case ("Badugi"): r = 548; break;
             case ("Tetriamonds"): r = 844; break;
-            case ("Spot The Difference"): r = 422; break;
+            case ("Spot the Difference"): r = 422; break;
             case ("Negativity"): r = 235; break;
             case ("Masher The Bottun"): r = 423; break;
             case ("Yes and No"): r = 236; break;
